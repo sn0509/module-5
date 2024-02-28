@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import {useState} from 'react'
 
 function UseClock() {
     const [time, setTime] = useState("");
